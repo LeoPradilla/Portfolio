@@ -1,2 +1,2 @@
-# Portfolio
-Data analysis portfolio
+# Leonardo Pradilla
+"Numbers are fact with bias"
