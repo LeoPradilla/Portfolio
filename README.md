@@ -8,14 +8,16 @@ When I'm not working with data, I like to stay active by running and working out
 
 I have strong problem-solving skills and am dedicated to delivering impactful insights that support better decision-making. I'm a collaborative team player with excellent communication skills and a strong desire to learn from and work with others.
 
-My [Linkedin](https://www.linkedin.com/in/leonardopradilla/).
+Contact me:
+[Linkedin](https://www.linkedin.com/in/leonardopradilla/).
+Email: lfpradilla@gmail.com
 
 ---
 
 # Projects
 
 ## [Fitbit Sleep Analysis: Using Data Analysis to Understand How Physical Activity Affects My Sleep Quality](https://leopradilla.github.io/FitSleep/)
-The primary objective is to assess the impact of physical activity on sleep patterns and quality. This analysis will provide a comprehensive understanding of the correlation between these two variables, with the ultimate goal of enhancing rest and recovery.
+<p align="justify">The primary objective is to assess the impact of physical activity on sleep patterns and quality. This analysis will provide a comprehensive understanding of the correlation between these two variables, with the ultimate goal of enhancing rest and recovery.</p>
 
 * Extracted information from FitBit API.
 * Stored the data in a PostgreSQL database.
@@ -23,7 +25,7 @@ The primary objective is to assess the impact of physical activity on sleep patt
 * Presented the insights in Tableau.
 
 ## [Expense Explorer: Analyzing Monthly Expenses for Optimal Financial Health](https://leopradilla.github.io/ExpenseExplorer/)
-This project aims to go through the monthly expenses data to understand spending habits and find ways to improve financial health. By sorting and presenting the data in a visual format, we hope to pinpoint where we can cut down on expenses and also where it would be wise to spend more money.
+<p align="justify">This project aims to go through the monthly expenses data to understand spending habits and find ways to improve financial health. By sorting and presenting the data in a visual format, we hope to pinpoint where we can cut down on expenses and also where it would be wise to spend more money.</p>
 * Extracted information from Google Sheets.
 * Used Python to analyze the information.
 * Visualized insights in Tableau.
