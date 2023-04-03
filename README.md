@@ -10,7 +10,7 @@ I have strong problem-solving skills and am dedicated to delivering impactful in
 
 Contact me:
 * [Linkedin](https://www.linkedin.com/in/leonardopradilla/).
-* [Email](lfpradilla@gmail.com)
+* <a href = "mailto: lfpradilla@gmail.com">Send Email</a>
 
 ---
 
