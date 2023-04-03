@@ -10,7 +10,7 @@ I have strong problem-solving skills and am dedicated to delivering impactful in
 
 Contact me:
 * [Linkedin](https://www.linkedin.com/in/leonardopradilla/).
-* Email: lfpradilla@gmail.com
+* [Email](lfpradilla@gmail.com)
 
 ---
 
