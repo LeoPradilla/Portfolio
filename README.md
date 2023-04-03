@@ -1,6 +1,6 @@
 # About me
 
-<img align="right" src="https://github.com/LeoPradilla/Portfolio/blob/main/images/male-placeholder-image.jpeg" alt="Profile Picture">
+<img align="right" src="https://github.com/LeoPradilla/Portfolio/blob/main/images/male-placeholder-image.jpeg" alt="Profile Picture" width="500" height="500">
 
 Hi there! My name is Leonardo Pradilla, and I'm a highly motivated and enthusiastic data science graduate with a passion for using data to drive business decisions. I hold a graduate certificate in Business Analytics from Seneca College.
 
