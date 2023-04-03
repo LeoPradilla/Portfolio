@@ -1,2 +1,2 @@
 # Leonardo Pradilla
-"Numbers are fact with bias"
+"Numbers are facts with bias"
