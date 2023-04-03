@@ -8,6 +8,8 @@ When I'm not working with data, I like to stay active by running and working out
 
 I have strong problem-solving skills and am dedicated to delivering impactful insights that support better decision-making. I'm a collaborative team player with excellent communication skills and a strong desire to learn from and work with others.
 
+My [Linkedin](https://www.linkedin.com/in/leonardopradilla/).
+
 ---
 
 # Projects
