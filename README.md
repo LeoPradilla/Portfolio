@@ -1,17 +1,16 @@
 # About me
 
 <img align="right" src="https://github.com/LeoPradilla/Portfolio/blob/main/images/male-placeholder-image.jpeg" alt="Profile Picture" width="300" height="300">
-&nbsp;
-<p align="justify">Hi there! My name is Leonardo Pradilla, and I'm a highly motivated and enthusiastic data science graduate with a passion for using data to drive business decisions. I hold a graduate certificate in Business Analytics from Seneca College.
+Hi there! My name is Leonardo Pradilla, and I'm a highly motivated and enthusiastic data science graduate with a passion for using data to drive business decisions. I hold a graduate certificate in Business Analytics from Seneca College.
 
 When I'm not working with data, I like to stay active by running and working out. I also enjoy playing guitar and reading to unwind and stay creative. These activities help me maintain a healthy work-life balance and continue to learn and grow both personally and professionally. 
 
-I have strong problem-solving skills and am dedicated to delivering impactful insights that support better decision-making. I'm a collaborative team player with excellent communication skills and a strong desire to learn from and work with others.</p>
+I have strong problem-solving skills and am dedicated to delivering impactful insights that support better decision-making. I'm a collaborative team player with excellent communication skills and a strong desire to learn from and work with others.
 
 Contact me:
 * [Linkedin](https://www.linkedin.com/in/leonardopradilla/)
 * <a href = "mailto: lfpradilla@gmail.com" alt="lfpradilla@gmail.com">Send Email</a>
-
+&nbsp;
 ---
 
 # Projects
