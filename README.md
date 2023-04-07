@@ -16,12 +16,13 @@ Contact me:
 # Projects
 
 ### [Fitbit Sleep Analysis: Using Data Analysis to Understand How Physical Activity Affects My Sleep Quality](https://leopradilla.github.io/FitSleep/)
-<p align="justify">The primary objective is to assess the impact of physical activity on sleep patterns and quality. This analysis will provide a comprehensive understanding of the correlation between these two variables, with the ultimate goal of enhancing rest and recovery.</p>
+<p align="justify">The primary objective is to analyzes Fitbit data to evaluate changes in physical activity levels and sleep quality since moving to Canada, with the goal of identifying insights and areas for improvement in their health and wellness.</p>
 
-* Extracted information from FitBit API.
-* Stored the data in a PostgreSQL database.
-* Used Python to analyze the data.
-* Presented the insights in Tableau.
+Skills Used: Python, Pandas, Matplotlib, Statistical Analysis, Data Visualization
+
+<p align="justify">The methodology involved extracting relevant data from the FitBit API, which included physical activity levels and sleep quality metrics. Subsequently, the data was stored in a PostgreSQL database to manage and analyze it efficiently. Python was utilized for statistical analysis and data manipulation. Lastly, visualizations were created using Python libraries such as Matplotlib and Seaborn to convey the analysis findings effectively.</p>
+
+<p align="justify">Results: After analyzing the data, I found that my physical activity levels have decreased significantly since moving to Canada, averaging around 8,000 steps per day compared to 12,000 steps per day prior to the move, likely due to less walking and more time spent commuting by car. Additionally, my sleep has been impacted, with an average of 6 hours per night since the move compared to 7-8 hours per night before, likely due to the stress of adjusting to a new country and job. Exploring the FitBit data also revealed interesting insights, such as a correlation between physical activity and heart rate, which could be useful for improving overall health.</p>
 
 ### [Expense Explorer: Analyzing Monthly Expenses for Optimal Financial Health](https://leopradilla.github.io/ExpenseExplorer/)
 <p align="justify">This project aims to go through the monthly expenses data to understand spending habits and find ways to improve financial health. By sorting and presenting the data in a visual format, we hope to pinpoint where we can cut down on expenses and also where it would be wise to spend more money.</p>
