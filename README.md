@@ -15,7 +15,7 @@ Contact me:
 
 # Projects
 
-### [Fitbit Sleep Analysis: Using Data Analysis to Understand How Physical Activity Affects My Sleep Quality](https://leopradilla.github.io/FitSleep/)
+### [Tracking the Transition: An Analysis of Fitbit Data Across Borders](https://leopradilla.github.io/FitSleep/)
 <p align="justify">The primary objective is to analyzes Fitbit data to evaluate changes in physical activity levels and sleep quality since moving to Canada, with the goal of identifying insights and areas for improvement in their health and wellness.</p>
 
 Skills Used: Python, Pandas, Matplotlib, Statistical Analysis, Data Visualization
