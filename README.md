@@ -1,3 +1,5 @@
+# PORTFOLIO
+
 # About me
 
 <img align="right" src="https://github.com/LeoPradilla/Portfolio/blob/main/images/male-placeholder-image.jpeg" alt="Profile Picture" width="300" height="300">
