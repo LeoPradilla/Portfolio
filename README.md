@@ -1,6 +1,7 @@
-# PORTFOLIO
+# Portfolio
 
-# About me
+
+## About me
 
 <img align="right" src="https://github.com/LeoPradilla/Portfolio/blob/main/images/male-placeholder-image.jpeg" alt="Profile Picture" width="300" height="300">
 Hi there! My name is Leonardo Pradilla, and I'm a highly motivated and enthusiastic data science graduate with a passion for using data to drive business decisions. I hold a graduate certificate in Business Analytics from Seneca College.
@@ -12,10 +13,10 @@ I have strong problem-solving skills and am dedicated to delivering impactful in
 Contact me:
 * [Linkedin](https://www.linkedin.com/in/leonardopradilla/)
 * <a href = "mailto: lfpradilla@gmail.com" alt="lfpradilla@gmail.com">Send Email</a>
-&nbsp;
+
 ---
 
-# Projects
+## Projects
 
 ### [Tracking the Transition: An Analysis of Fitbit Data Across Borders](https://leopradilla.github.io/FitSleep/)
 <p align="justify">The primary objective is to analyzes Fitbit data to evaluate changes in physical activity levels and sleep quality since moving to Canada, with the goal of identifying insights and areas for improvement in their health and wellness.</p>
