@@ -26,9 +26,3 @@ Skills Used: Python, Pandas, Matplotlib, Statistical Analysis, Data Visualizatio
 <p align="justify">The methodology involved extracting relevant data from the FitBit API, which included physical activity levels and sleep quality metrics. Subsequently, the data was stored in a PostgreSQL database to manage and analyze it efficiently. Python was utilized for statistical analysis and data manipulation. Lastly, visualizations were created using Python libraries such as Matplotlib and Seaborn to convey the analysis findings effectively.</p>
 
 <p align="justify">Results: I discovered that since moving to Canada, my physical activity levels have decreased significantly. The number of calories burned decreased by 22% from 61.768 in Colombia to 47.742 in Canada, possibly due to busy work and studies. My sleep duration in Colombia was slightly longer, with a mean duration of 454 minutes compared to 442 minutes in Canada. However, the standard deviation of my sleep duration in Canada is higher than in Colombia, suggesting more variability in sleep duration. These findings indicate the need to improve physical activity levels and maintain a consistent sleep schedule to improve overall health and well-being.</p>
-
-### [Expense Explorer: Analyzing Monthly Expenses for Optimal Financial Health](https://leopradilla.github.io/ExpenseExplorer/)
-<p align="justify">This project aims to go through the monthly expenses data to understand spending habits and find ways to improve financial health. By sorting and presenting the data in a visual format, we hope to pinpoint where we can cut down on expenses and also where it would be wise to spend more money.</p>
-* Extracted information from Google Sheets.
-* Used Python to analyze the information.
-* Visualized insights in Tableau.
