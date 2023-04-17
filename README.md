@@ -3,7 +3,7 @@
 
 ## About me
 
-<img align="right" src="https://github.com/LeoPradilla/Portfolio/blob/main/images/Screenshot%202023-04-16%20192332.png" alt="Profile Picture" width="207" height="332">
+<img align="right" src="https://github.com/LeoPradilla/Portfolio/blob/main/images/profile_pic.png" alt="Profile Picture" width="207" height="332">
 Hi there! My name is Leonardo Pradilla, and I'm a highly motivated and enthusiastic data science graduate with a passion for using data to drive business decisions. I hold a graduate certificate in Business Analytics from Seneca College.
 
 When I'm not working with data, I like to stay active by running and working out. I also enjoy playing guitar and reading to unwind and stay creative. These activities help me maintain a healthy work-life balance and continue to learn and grow both personally and professionally. 
